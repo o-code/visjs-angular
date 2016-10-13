@@ -1,0 +1,8 @@
+{
+  "name": "visjs-angular",
+  "description": "An Angular wrapper for a dynamic, browser-based visualization library.",
+  "main": ["vis.module.js"],
+  "dependencies": {
+    "vis": "^4.16.1"
+  }
+}
